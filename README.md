@@ -57,7 +57,7 @@ N.B.
 
 **if you want to clear the temporal buffer, then set this to true**
 
-##Appendix 1
+## Appendix 1
 
 The metaDataDict is used to update the dictionary below e.g.
 
