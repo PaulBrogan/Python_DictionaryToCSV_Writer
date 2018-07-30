@@ -2,10 +2,10 @@
 
 =====================================================
 
-##Fire time series Python dictionaries at this module and it will periodically write them to a CSV, the module can handle multiple CSV file names and is configurable.
+## Fire time series Python dictionaries at this module and it will periodically write them to a CSV, the module can handle multiple CSV file names and is configurable.
 
 
-###Using the module
+### Using the module
 
 All communications take place via the function...
 
@@ -43,7 +43,7 @@ the dictionary is assumed to be in this form as the timeKey defaults to False
 **(if your dictionary is not like either of these, then things might go wrong)**
 
 
-###In the metaDataDict the time can be incorporated into the directory  and/or the name by setting,
+### In the metaDataDict the time can be incorporated into the directory  and/or the name by setting,
         
 *metaDict['directoryTime'] = "%Y/%m/%d/"*
 
