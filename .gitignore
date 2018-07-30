@@ -1,0 +1,14 @@
+# Files
+*.iml
+*.json
+*.log
+*.out
+*.zip
+
+# Folders
+.idea/*
+GlobalPMU_OutputData/*
+ArchiveApril/*
+Archive-March2018/*
+paho/*
+paho_mqtt-1.1-py3.5.egg-info/*
